@@ -3,7 +3,7 @@ console.log("天气脚本开始!");
 var $tool = tool();
 
 var params = {
-    url: "https://tianqi.moji.com/weather/china/guangdong/guangzhou"
+    url: "https://tianqi.moji.com/weather/china/hunan/huarong-county"
 };
 $tool.get(params, function (e, r, d) {
     if (!!d) {
