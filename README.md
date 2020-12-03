@@ -40,6 +40,7 @@ Jelide对任何脚本问题概不负责，包括但不限于由任何脚本错�
 ######  配置中内容收集整理自以下大佬 （Task脚本由于作者，贡献者众多，这里仅标出我采集脚本的库，同样感谢未能标出的各位贡献者）
 
 #### 特别感谢：
+  *[@Orz-3](https://github.com/Orz-3)
 
   * [@ConnersHua](https://github.com/ConnersHua)
 
